@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# MySQL dumps and local DB files
+*.sql.gz
+*.sql
+
+# IDE/project files
+.vscode/
+.idea/
+*.log
